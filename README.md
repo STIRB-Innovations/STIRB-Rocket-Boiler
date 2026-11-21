@@ -47,3 +47,19 @@ This project involves solid-fuel combustion, hot flue gases and a water-based he
 STIRB Rocket Boiler – Original concept by Bojan Štirb, Serbia.
 
 Part of STIRB Innovations.
+
+## STIRB Rocket Boiler – 3D Design
+
+The STIRB Rocket Boiler is an open-source
+heating technology project.
+
+### Concept Design
+
+![STIRB Rocket Boiler](spiralni%20kotao.png)
+
+### Open Engineering Collaboration
+
+Engineers, researchers, students and
+enthusiasts are invited to explore the
+Blender 3D models, discuss the design
+and contribute improvements.
