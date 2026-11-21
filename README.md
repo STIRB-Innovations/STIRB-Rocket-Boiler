@@ -55,7 +55,7 @@ heating technology project.
 
 ### Concept Design
 
-![STIRB Rocket Boiler](spiralni%20kotao.png)
+![STIRB Rocket Boiler – Main Design](IMG_6578.jpeg)
 
 ### Open Engineering Collaboration
 
