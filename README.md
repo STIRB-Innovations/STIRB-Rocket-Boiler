@@ -25,7 +25,18 @@ Technical drawings, CAD models, testing records and design revisions will be pub
 
 ### License
 
-The project is intended for an open-hardware release. A specific license has not yet been selected. Public access does not currently grant permission to manufacture or redistribute the design.
+STIRB Rocket Boiler is an open-source hardware project.
+
+Original hardware design files explicitly identified as covered by this licence are released under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0).
+
+The licence permits use, study, modification, manufacture and distribution under its terms, including applicable source-sharing obligations.
+
+Copyright © 2026 Bojan Štirb.
+
+The name STIRB originates from the inventor's family name.
+
+For full licence terms, see LICENSE.
+For inventor attribution and project information, see NOTICE.md.
 
 ### Safety Notice
 
