@@ -63,3 +63,13 @@ Engineers, researchers, students and
 enthusiasts are invited to explore the
 Blender 3D models, discuss the design
 and contribute improvements.
+
+### Design Improvement – Air Venting
+
+The upper water connection has been relocated
+to the highest point of the boiler to facilitate
+air removal from the water circuit.
+
+This design change is intended to reduce
+air accumulation in the upper part of
+the boiler.
